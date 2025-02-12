@@ -2,6 +2,7 @@
 
 <p align="center"> - The open head tracker - </p>
 
+# NOT BEING MAINTAINED!
 ## What is this?
 
 ### This is a Linux port of AITrack
