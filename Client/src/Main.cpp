@@ -20,7 +20,7 @@ static std::wstring_convert<std::codecvt_utf8_utf16<wchar_t>> converter;
 
 int main( int argc, char *argv[] )
 {
-    std::string prefs_path{ "/home/" };
+    std::string prefs_path{ "$HOME" };
     std::string models_path{ "/usr/share/aitrack/" };
     std::string user{ (const char *)getenv( "USER" ) };
 
